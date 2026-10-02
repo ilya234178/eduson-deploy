@@ -1,0 +1,18 @@
+.main {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+
+    width: 100%;
+    max-width: 1000px;
+    margin: 0 auto;
+
+    justify-items: center;
+}
+
+h3, p {
+    
+    font-weight: bolder;
+    color: white;
+}
+

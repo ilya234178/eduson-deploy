@@ -1,0 +1,18 @@
+.card {
+    width: 280px;
+    background-color: black;
+    border-radius: 15px;
+    padding: 10px 20px;
+}
+
+.poster {
+    width: 100%;
+}
+
+.img {
+    width: 280px;
+}
+
+.green {
+    background-color: darkgreen;
+}
